@@ -18,7 +18,11 @@ Though this has been addressed in the past by prapatti.org, srivaishnavan.org an
 * Language friendliness
 *	Graded and beginner-friendliness
 *	Resource + Manual + Community at one place
- 
+
+# Design File
+https://www.figma.com/file/oIarru5qrGgIXFCyUKVopq/Vaishnava?node-id=0%3A1&t=88tdnsUKOt8NnRXQ-1
+![Vaishnava](https://user-images.githubusercontent.com/98468801/218298158-bb850fd1-cd3a-4b4a-b57a-90347bf7a00d.jpg)
+
 # Team members:
 * S. Jayanth Vishaal
 * N.Dharshan
